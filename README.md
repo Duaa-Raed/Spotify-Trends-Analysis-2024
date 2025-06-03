@@ -6,7 +6,7 @@ This analysis explores several key questions related to the popularity of songs 
 ####1. Is There a Relationship Between Spotify Streams and YouTube Views?
 We examined the relationship using a scatter plot and a linear regression line.
 
-![Spotify Streams vs YouTube Posts](Images/Spotify Streams vs YouTube Posts.png)
+![Spotify Streams vs YouTube Posts](images/Spotify Streams vs YouTube Posts.png)
 
 
 Pearson Correlation Coefficient: 0.47
