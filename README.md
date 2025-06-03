@@ -3,10 +3,10 @@
 This analysis explores several key questions related to the popularity of songs across platforms such as Spotify, YouTube, and TikTok. The dataset includes streaming statistics, release dates, and metadata like explicit content labeling.
 
 
-####1. Is There a Relationship Between Spotify Streams and YouTube Views?
+                  ####1. Is There a Relationship Between Spotify Streams and YouTube Views?#####
 I examined the relationship using a scatter plot and a linear regression line.
 
-![Spotify Streams vs YouTube Posts](images/Spotify%20Streams%20vs%20YouTube%20Posts.png)
+![Spotify Streams vs YouTube Views](./images/Spotify%20Streams%20vs%20YouTube%20Views.png)
 
 
 Pearson Correlation Coefficient: 0.47
@@ -20,7 +20,7 @@ Most data points are clustered in the low-to-medium range, indicating moderate p
 Possible Explanation:
 Differences in platform dynamics (e.g., playlists vs. visual content, algorithm reach, user base demographics) may account for variations in performance.
 
-#####2. Do TikTok Posts Impact Spotify Streams?
+                            #####2. Do TikTok Posts Impact Spotify Streams?########
 I analyzed the impact using a scatter plot and correlation analysis.
 ![Spotify Streams vs YouTube Posts](images/Spotify%20Streams%20vs%20YouTube%20Posts.png)
 
@@ -36,8 +36,11 @@ The regression line is nearly flat, further supporting the lack of correlation.
 Conclusion:
 TikTok and Spotify may promote music based on different mechanisms. A song can trend on TikTok without significant Spotify traction and vice versa. Viral success may depend on content type, audience behavior, and platform-specific algorithms.
 
-#####3. Are Explicit Songs More or Less Popular?
+                            #####3. Are Explicit Songs More or Less Popular?#########
 We compared Spotify stream counts between explicit and non-explicit tracks using boxplots and group statistics.
+
+![Streams by Explicit](./images/streams_by_explicit.png)
+
 
 Distribution:
 Clean songs: 64.11%
@@ -54,8 +57,9 @@ Clean songs exhibit more extreme outliers, suggesting a few exceptionally popula
 Interpretation:
 Clean songs may enjoy broader distribution on platforms like radio or public playlists, contributing to occasional viral success.
 
-#####4. Are Newer Songs More Successful?
+                               #####4. Are Newer Songs More Successful?####
 We examined streaming performance across different release date periods.
+ ![Streams by Year](./images/streams_by_year.png)
 
 Key Trends:
 1957–1999: Limited representation, generally low stream counts.
