@@ -3,7 +3,8 @@
 This analysis explores several key questions related to the popularity of songs across platforms such as Spotify, YouTube, and TikTok. The dataset includes streaming statistics, release dates, and metadata like explicit content labeling.
 
 
-* 1. Is There a Relationship Between Spotify Streams and YouTube Views?*
+**1. Is There a Relationship Between Spotify Streams and YouTube Views?**
+
 I examined the relationship using a scatter plot and a linear regression line.
 
 ![Spotify Streams vs YouTube Views](./images/Spotify%20Streams%20vs%20YouTube%20Views.png)
