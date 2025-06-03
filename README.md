@@ -2,17 +2,17 @@
  
 This analysis explores several key questions related to the popularity of songs across platforms such as Spotify, YouTube, and TikTok. The dataset includes streaming statistics, release dates, and metadata like explicit content labeling.
 
+
 ####1. Is There a Relationship Between Spotify Streams and YouTube Views?
 We examined the relationship using a scatter plot and a linear regression line.
 
+![Spotify Streams vs YouTube Posts](images/Spotify Streams vs YouTube Posts.png)
 Pearson Correlation Coefficient: 0.47
 
 Interpretation: A moderate positive correlation exists between the two variables. Songs that perform well on Spotify tend to also perform well on YouTube, but the relationship isn't strong enough to make precise predictions.
 
 Observations:
-
 Several outliers indicate songs that are disproportionately successful on one platform.
-
 Most data points are clustered in the low-to-medium range, indicating moderate popularity for the majority of songs.
 
 Possible Explanation:
