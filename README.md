@@ -7,6 +7,8 @@ This analysis explores several key questions related to the popularity of songs 
 We examined the relationship using a scatter plot and a linear regression line.
 
 ![Spotify Streams vs YouTube Posts](Images/Spotify Streams vs YouTube Posts.png)
+
+
 Pearson Correlation Coefficient: 0.47
 
 Interpretation: A moderate positive correlation exists between the two variables. Songs that perform well on Spotify tend to also perform well on YouTube, but the relationship isn't strong enough to make precise predictions.
