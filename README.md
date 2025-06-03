@@ -4,7 +4,7 @@ This analysis explores several key questions related to the popularity of songs 
 
 
 ####1. Is There a Relationship Between Spotify Streams and YouTube Views?
-We examined the relationship using a scatter plot and a linear regression line.
+I examined the relationship using a scatter plot and a linear regression line.
 
 ![Spotify Streams vs YouTube Posts](images/Spotify%20Streams%20vs%20YouTube%20Posts.png)
 
@@ -21,7 +21,8 @@ Possible Explanation:
 Differences in platform dynamics (e.g., playlists vs. visual content, algorithm reach, user base demographics) may account for variations in performance.
 
 #####2. Do TikTok Posts Impact Spotify Streams?
-We analyzed the impact using a scatter plot and correlation analysis.
+I analyzed the impact using a scatter plot and correlation analysis.
+![Spotify Streams vs YouTube Posts](images/Spotify%20Streams%20vs%20YouTube%20Posts.png)
 
 Pearson Correlation Coefficient: 0.03
 
@@ -29,9 +30,7 @@ Interpretation:
 No strong linear relationship exists between the number of TikTok posts using a song and its Spotify stream count.
 
 Observations:
-
 Points are scattered randomly, with no visible trend.
-
 The regression line is nearly flat, further supporting the lack of correlation.
 
 Conclusion:
@@ -41,21 +40,15 @@ TikTok and Spotify may promote music based on different mechanisms. A song can t
 We compared Spotify stream counts between explicit and non-explicit tracks using boxplots and group statistics.
 
 Distribution:
-
 Clean songs: 64.11%
-
 Explicit songs: 35.89%
 
 Average Streams:
-
 Clean songs: 448.6 million
-
 Explicit songs: 445.3 million
 
 Findings:
-
 Stream counts are very similar on average.
-
 Clean songs exhibit more extreme outliers, suggesting a few exceptionally popular clean tracks.
 
 Interpretation:
@@ -68,26 +61,18 @@ Key Trends:
 1957–1999: Limited representation, generally low stream counts.
 
 2000–2017 (Golden Era):
-
 Highest average streams.
-
 Relatively stable distribution.
-
 Moderate outliers in the 2–3 billion range.
 
 2018–2024 (Modern Era):
-
 More frequent extreme values (up to 4+ billion).
-
 Higher variability and wider interquartile ranges.
-
 Lower median stream count compared to earlier periods.
 
 Observations:
 Recent years show greater disparity between hits and average songs.
-
 Increased volume of releases, especially post-2019, introduces more competition and volatility.
-
 Earlier eras had fewer but more stable performers.
 
 Conclusion:
