@@ -4,7 +4,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-most_Streamed_Spotify_Songs_2024=pd.read_csv("C:/Users/duaar/OneDrive/Desktop/New folder/Most_Stream_Spotify_Songs_2024.csv")
 
 
 # Display first 10 rows
@@ -219,10 +218,7 @@ plt.savefig(f"{output_path}/streams_by_year.png", bbox_inches='tight', dpi=300)
 plt.close()
 
 print("\n✅ تم حفظ الرسوم البيانية في المجلد:", output_path)
-# حفظ البيانات في ملف CSV
-output_csv_path = "C:/Users/duaar/OneDrive/Desktop/New folder/most_streamed_spotify_songs_2024.csv"
-most_Streamed_Spotify_Songs_2024.to_csv(output_csv_path, index=False)
-print("\n✅ تم حفظ البيانات في ملف CSV:", output_csv_path)
+
 
 
 
