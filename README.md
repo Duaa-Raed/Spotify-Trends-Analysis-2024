@@ -25,11 +25,9 @@ Differences in platform dynamics (e.g., playlists vs. visual content, algorithm 
 
 **2. Do TikTok Posts Impact Spotify Streams?**
 
-**Figure 2: This scatter plot demonstrates an extremely weak linear relationship (Pearson = 0.03) between TikTok posts and Spotify streams. The flat regression line and random spread indicate little to no impact from TikTok activity on stream counts.**
-
-
 I analyzed the impact using a scatter plot and correlation analysis.
 ![Spotify Streams vs YouTube Posts](images/Spotify%20Streams%20vs%20YouTube%20Posts.png)
+**Figure 2: This scatter plot demonstrates an extremely weak linear relationship (Pearson = 0.03) between TikTok posts and Spotify streams. The flat regression line and random spread indicate little to no impact from TikTok activity on stream counts.**
 
 
 Pearson Correlation Coefficient: 0.03
