@@ -23,7 +23,7 @@ The aim of this project was to explore and understand the factors that may influ
 The analysis was conducted using Python libraries such as Pandas, Seaborn, and Matplotlib to create statistical visualizations and interpret results.
 
 
-
+---
 Is There a Relationship Between Spotify Streams and YouTube Views?
 ---
 
@@ -45,6 +45,7 @@ Most data points are clustered in the low-to-medium range, indicating moderate p
 Possible Explanation:
 Differences in platform dynamics (e.g., playlists vs. visual content, algorithm reach, user base demographics) may account for variations in performance.
 
+----
 Do TikTok Posts Impact Spotify Streams?
 ---
 
@@ -65,8 +66,9 @@ The regression line is nearly flat, further supporting the lack of correlation.
 Conclusion:
 TikTok and Spotify may promote music based on different mechanisms. A song can trend on TikTok without significant Spotify traction and vice versa. Viral success may depend on content type, audience behavior, and platform-specific algorithms.
 
- Are Explicit Songs More or Less Popular?
- ---
+----
+Are Explicit Songs More or Less Popular?
+---
 
 I compared Spotify stream counts between explicit and non-explicit tracks using boxplots and group statistics.
 
@@ -90,6 +92,7 @@ Clean songs exhibit more extreme outliers, suggesting a few exceptionally popula
 Interpretation:
 Clean songs may enjoy broader distribution on platforms like radio or public playlists, contributing to occasional viral success.
 
+---
 Are Newer Songs More Successful?
 ---
 
